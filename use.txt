@@ -1,0 +1,6 @@
+1.注册gitHub账号
+2.windows 或者 mac 安装 客户端
+3.找到本地 Git Bash Here ，cmd 操作和客户端操作一样
+4.git init
+5.git add .当前目录所有文件
+6.git commit -m "message 提交信息"
