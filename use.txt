@@ -4,3 +4,5 @@
 4.git init
 5.git add .当前目录所有文件
 6.git commit -m "message 提交信息"
+7.git push origin master //提交
+8.git pull origin master 拉取
